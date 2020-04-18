@@ -49,11 +49,11 @@ class c2{
   }
 }
 
-// class c3{
-//   constructor(){
-//       this.name='soroosh'
-//   }
-// }
+class c3{
+  constructor(){
+      this.name='soroosh'
+  }
+}
 
 // let obj1= new c1()
 // let obj2= new c2()
@@ -61,10 +61,10 @@ class c2{
 
 // let obj4=Object.assign({},obj3)
 
-console.log(obj1)
-console.log(obj2)
-console.log(obj3)
-console.log(obj4)
+// console.log(obj1)
+// console.log(obj2)
+// console.log(obj3)
+// console.log(obj4)
 
 let list=[1,2,3,4]
  console.log(list);
